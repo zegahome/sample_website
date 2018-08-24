@@ -1,3 +1,5 @@
 # sample_website
-Readme
+Readme\n
 READ ME
+
+this is a sample site.

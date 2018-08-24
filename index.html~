@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html>
+
 <head> 
 	<title>Bob's test website</title>
-	<meta charset="utf-8">
 </head>
 <body>
+
+
 <p>Hello, world!</p>
+
 
 <p>
   William Shakespeare's <em>Sonnets</em> consists of 154 poems, each fourteen
@@ -15,6 +18,7 @@
   <a href="https://en.wikipedia.org/wiki/Couplet">couplet</a>).
   <strong>Sonnet 18</strong> is perhaps the most famous, and begins like this:
 </p>
+
 
 <blockquote>
   <p>
